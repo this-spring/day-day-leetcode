@@ -9,4 +9,4 @@ shua leetcode day day
 
 ## 双指针  
 
-<a href="https://github.com/this-spring/day-day-leetcode/blob/main/%E5%8F%8C%E6%8C%87%E9%92%88/167/README.md">167</a>
+<a href="https://github.com/this-spring/day-day-leetcode/blob/main/%E5%8F%8C%E6%8C%87%E9%92%88/167/README.md">167 easy</a>
